@@ -1,4 +1,4 @@
-# Base class
+ # Base class
 class Vehicle:
     def move(self):
         pass   # placeholder (to be overridden)

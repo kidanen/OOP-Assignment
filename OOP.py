@@ -1,4 +1,4 @@
-# First step creating base class 
+#First step creating base class 
 class Device: 
     def __init__(self, brand, model):
         self.brand = brand
